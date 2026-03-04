@@ -1,11 +1,11 @@
 # project-horse-privacy-policy
-Privacy Policy for Project Horse Manager mobile game.
+Privacy Policy for Project Horse mobile game.
 📜 POLÍTICA DE PRIVACIDADE
-Project Horse Manager
+Project Horse
 
 Última atualização: 02 de março de 2026
 
-O aplicativo Project Horse Manager, desenvolvido por Tom Games, respeita a privacidade dos seus usuários. Esta Política de Privacidade explica como as informações são tratadas ao utilizar o aplicativo.
+O aplicativo Project Horse, desenvolvido por Terknaut Games, respeita a privacidade dos seus usuários. Esta Política de Privacidade explica como as informações são tratadas ao utilizar o aplicativo.
 
 1. Coleta de Informações
 
@@ -101,5 +101,5 @@ Recomenda-se revisar esta página periodicamente.
 
 9. Contato
 
-Desenvolvedor: Tom Games
+Desenvolvedor: Terknaut Games
 E-mail: evertomlima_16@hotmail.com
